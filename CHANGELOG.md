@@ -1,5 +1,11 @@
 # focus-tree
 
+## 0.1.3
+
+### Patch Changes
+
+- Add shebang
+
 ## 0.1.2
 
 ### Patch Changes
