@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { run, command, positional } from "@drizzle-team/brocli";
 
 const echo = command({
